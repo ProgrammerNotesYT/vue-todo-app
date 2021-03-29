@@ -3,10 +3,7 @@
 ## Project setup
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
+npm install --save-dev @fortawesome/fontawesome-free
 npm run serve
 ```
 
